@@ -4,13 +4,16 @@
 
 </div>
 
+
+
 ---
 
 # 🐚 CVE-2025-7620
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Yuri08](https://img.shields.io/badge/%20Exploit-CVE--2025--7620-ff69b4?style=for-the-badge)
+![Yuri08](https://img.shields.io/badge/%20Yuri08-CVE--2025--7620-ff69b4?style=for-the-badge)
+![Vietnam](https://img.shields.io/badge/%F0%9F%87%BB%F0%9F%87%B3-Vietnam-red?style=for-the-badge)
 
 ---
 
